@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1686716020 source:d:\facultate\anul_2\semestrul_2\proiect poo\aplicatie biblioteca\carte.cpp
+	"Carte.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+
+1686716451 d:\facultate\anul_2\semestrul_2\proiect poo\aplicatie biblioteca\carte.h
+	<iostream>
+
+1686712672 source:d:\facultate\anul_2\semestrul_2\proiect poo\aplicatie biblioteca\imprumut.cpp
+	"Imprumut.h"
+
+1686687820 d:\facultate\anul_2\semestrul_2\proiect poo\aplicatie biblioteca\imprumut.h
+	<iostream>
+	"Carte.h"
+	"Cititor.h"
+
+1686687485 source:d:\facultate\anul_2\semestrul_2\proiect poo\aplicatie biblioteca\cititor.cpp
+	"Cititor.h"
+
+1686715127 d:\facultate\anul_2\semestrul_2\proiect poo\aplicatie biblioteca\cititor.h
+	<string.h>
+	<bits/stdc++.h>
+	<iostream>
+
+1686716302 source:d:\facultate\anul_2\semestrul_2\proiect poo\aplicatie biblioteca\main.cpp
+	<iostream>
+	"Carte.h"
+	"Cititor.h"
+	"Imprumut.h"
+
+1686716022 source:d:\downloads\aplicatie biblioteca\carte.cpp
+	"Carte.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+
+1686716452 d:\downloads\aplicatie biblioteca\carte.h
+	<iostream>
+
+1686687486 source:d:\downloads\aplicatie biblioteca\cititor.cpp
+	"Cititor.h"
+
+1686715128 d:\downloads\aplicatie biblioteca\cititor.h
+	<string.h>
+	<bits/stdc++.h>
+	<iostream>
+
+1686712674 source:d:\downloads\aplicatie biblioteca\imprumut.cpp
+	"Imprumut.h"
+
+1686687822 d:\downloads\aplicatie biblioteca\imprumut.h
+	<iostream>
+	"Carte.h"
+	"Cititor.h"
+
+1686716520 source:d:\downloads\aplicatie biblioteca\main.cpp
+	<iostream>
+	"Carte.h"
+	"Cititor.h"
+	"Imprumut.h"
+
+1686716022 source:c:\users\mg\downloads\aplicatie bibliotecacucautare\aplicatie biblioteca\carte.cpp
+	"Carte.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+
+1686716452 c:\users\mg\downloads\aplicatie bibliotecacucautare\aplicatie biblioteca\carte.h
+	<iostream>
+
+1686687486 source:c:\users\mg\downloads\aplicatie bibliotecacucautare\aplicatie biblioteca\cititor.cpp
+	"Cititor.h"
+
+1686715128 c:\users\mg\downloads\aplicatie bibliotecacucautare\aplicatie biblioteca\cititor.h
+	<string.h>
+	<bits/stdc++.h>
+	<iostream>
+
+1686712674 source:c:\users\mg\downloads\aplicatie bibliotecacucautare\aplicatie biblioteca\imprumut.cpp
+	"Imprumut.h"
+
+1686687822 c:\users\mg\downloads\aplicatie bibliotecacucautare\aplicatie biblioteca\imprumut.h
+	<iostream>
+	"Carte.h"
+	"Cititor.h"
+
+1686736968 source:c:\users\mg\downloads\aplicatie bibliotecacucautare\aplicatie biblioteca\main.cpp
+	<iostream>
+	"Carte.h"
+	"Cititor.h"
+	"Imprumut.h"
+
